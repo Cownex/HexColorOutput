@@ -1,5 +1,5 @@
 [project]
-name = "hexoutput_COWNEX"
+name = "hex-color-output"
 version = "0.0.1"
 authors = [
   { name="Cownex", email="contact@cownex.de" },
