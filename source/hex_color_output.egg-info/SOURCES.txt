@@ -4,6 +4,7 @@ setup.cfg
 setup.py
 source/hex_color_output/HexOutput.py
 source/hex_color_output/__init__.py
+source/hex_color_output/color.py
 source/hex_color_output.egg-info/PKG-INFO
 source/hex_color_output.egg-info/SOURCES.txt
 source/hex_color_output.egg-info/dependency_links.txt
