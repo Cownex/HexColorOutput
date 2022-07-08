@@ -8,4 +8,3 @@ Install Hex-Color-Output via pip
 ```
 
 ## Using
-

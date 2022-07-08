@@ -1,6 +1,0 @@
-LICENSE
-pyproject.toml
-hex_color_output.egg-info/PKG-INFO
-hex_color_output.egg-info/SOURCES.txt
-hex_color_output.egg-info/dependency_links.txt
-hex_color_output.egg-info/top_level.txt

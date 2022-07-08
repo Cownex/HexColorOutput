@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+source/hex-color-output/HexOutput.py
+source/hex-color-output/__init__.py
+source/hex_color_output.egg-info/PKG-INFO
+source/hex_color_output.egg-info/SOURCES.txt
+source/hex_color_output.egg-info/dependency_links.txt
+source/hex_color_output.egg-info/top_level.txt
