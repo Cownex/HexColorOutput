@@ -1,9 +1,0 @@
-LICENSE
-pyproject.toml
-hexoutput/__init__.py
-hexoutput.egg-info/PKG-INFO
-hexoutput.egg-info/SOURCES.txt
-hexoutput.egg-info/dependency_links.txt
-hexoutput.egg-info/top_level.txt
-hexoutput/source/HexOutput.py
-hexoutput/source/__init__.py
