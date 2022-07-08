@@ -1,1 +1,1 @@
-hex-color-output
+hex_color_output
