@@ -19,7 +19,7 @@ Install Hex-Color-Output via pip
 
 Normal usage with hex codes:
 ```python
-from HexOutput import Color, Formatting, text, back, both
+from hex_color_output import Color, Formatting, text, back, both
 
 print(text("#b71c1c") + "Red Text!")
 print(back("#b71c1c") + "Red Background!")
